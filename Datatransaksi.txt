@@ -1,0 +1,29 @@
+ 
+-------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 2
+Nama Barang   : Topi
+Jumlah Barang : 5
+Harga Barang  : 15000
+-------------------------------
+Total Bayar   : 75000
+--------------------------------------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 0
+Nama Barang   : Baju
+Jumlah Barang : 2
+Harga Barang  : 40000
+-------------------------------
+Total Bayar   : 80000
+--------------------------------------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 0
+Nama Barang   : celana
+Jumlah Barang : 2
+Harga Barang  : 30000
+-------------------------------
+Total Bayar   : 60000
+-------------------------------
